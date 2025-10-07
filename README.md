@@ -22,3 +22,6 @@ isaque.costa@icomp.ufam.edu.br
 
 Bruno José dos Santos de Melo ES01
 bruno.melo@icomp.ufam.edu.br
+
+Jorge Harrison de Oliveira Pereira Junior
+jorge.oliveira@icomp.ufam.edu.br
